@@ -1860,7 +1860,7 @@ h2.typoh2{
 	h1, .h1, h2, .h2, h3, .h3 {
 		margin-top: 0px;
 		margin-bottom: 0px;
-		padding:20%;
+		
 	}
 	.grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
 		margin-bottom: .5em;
