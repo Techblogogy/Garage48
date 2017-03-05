@@ -2311,3 +2311,11 @@ h3.w3ls-title {
 }
 
 /*-- //responsive-design --*/
+.vraper-join-button{
+	padding: 20px;
+	text-align: center;
+}
+.stats{
+	text-align: center;
+  padding-top: 2em
+}
